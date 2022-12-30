@@ -1,0 +1,26 @@
+body {
+    font-family: Tahoma, Arial, sans-serif, Arabic; 
+    color: #440
+}
+table {
+    border-collapse: collapse;
+}
+p, h4 {
+    font-size: 20px; 
+    margin-bottom: 0;
+}
+h1 {
+    font-family:"Arabic"; 
+}
+h4 {
+    font-size: 16px; 
+}
+ul, ol {
+    margin: 0;
+}
+table tr td {
+    padding: 5px;
+}
+table {
+	width: 100%;
+}
